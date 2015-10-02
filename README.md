@@ -18,4 +18,6 @@ upload &lt;dir&gt; - Uploads attached file to directory. Ex: upload /tmp/
 less &lt;command&gt; - q to quit, space to page down. Ex: less cat index.php
 lessl &lt;command&gt; - less with line numbers. Ex: lessl cat index.php
 
-The second file, hsXZgT9wXtLpnMqP.php, is the same file as terminal.php and will work exactly the same, but it has been obfuscate using http://fopo.com.ar/. Please use this script when using the script.
+The second file, hsXZgT9wXtLpnMqP.php, is the same file as terminal.php and will work exactly the same, but it has been obfuscate using http://www.pipsomania.com/best_php_obfuscator.do
+
+Please use the second script when you want to actually use the script.
