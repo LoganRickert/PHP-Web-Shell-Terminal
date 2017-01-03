@@ -19,5 +19,3 @@ The following are custom commands:
 - lessl &lt;command&gt; - less with line numbers. Ex: lessl cat index.php
 
 The second file, hsXZgT9wXtLpnMqP.php, is the same file as terminal.php and will work exactly the same, but it has been obfuscate using http://www.pipsomania.com/best_php_obfuscator.do
-
-Please use the second script when you want to actually use the script.
